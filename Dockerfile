@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Edward Muller <edward@test.com>
+MAINTAINER Edward Muller <edward@test2.com>
 
 WORKDIR "/opt"
 
